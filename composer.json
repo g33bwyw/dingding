@@ -1,11 +1,17 @@
 {
     "name": "g33bwyw/dingding",
     "description": "钉钉跳转登录",
+	"license": "MIT",
     "authors": [
         {
             "name": "wangyawei",
             "email": "wangyawei@shzhanmeng.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "G33bwyw\\Dingding\\": "src"
+        }
+    }
 }
