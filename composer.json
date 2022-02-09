@@ -1,0 +1,11 @@
+{
+    "name": "g33bwyw/dingding",
+    "description": "钉钉跳转登录",
+    "authors": [
+        {
+            "name": "wangyawei",
+            "email": "wangyawei@shzhanmeng.com"
+        }
+    ],
+    "require": {}
+}
