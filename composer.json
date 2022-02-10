@@ -11,7 +11,7 @@
     "require": {},
 	"autoload": {
         "psr-4": {
-            "G33bwyw\\Dingding\\": "src"
+            "G33bwyw\\DingDing\\": "src"
         }
     }
 }
